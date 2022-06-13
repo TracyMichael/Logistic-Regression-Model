@@ -58,7 +58,7 @@ The application is built to provide analysis around Healthy and Risky Loans.
 
 1. Split the Data into Training and Testing Sets
 2. Create a Logistic Regression Model
-3. Predict a Logistic Regression Model with Resampled Training Data¶
+3. Predict a Logistic Regression Model with Resampled Training Data
 
 ---
 
