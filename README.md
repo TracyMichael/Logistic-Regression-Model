@@ -62,6 +62,12 @@ The application is built to provide analysis around Healthy and Risky Loans.
 
 ---
 
+## Images
+
+![L1](https://github.com/TracyMichael/Module-Challenge-12/blob/main/Images/Log_Reg_Mod_1.png)
+
+![L2](https://github.com/TracyMichael/Module-Challenge-12/blob/main/Images/Log_Reg_Mod_2.png)
+
 ## Contributors
 
 Tracy Davis <TracyMDavis88@gmail.com>
