@@ -1,4 +1,4 @@
-# Module-Challenge-12
+# Logistic Regression Model
 
 ## Technologies
 
